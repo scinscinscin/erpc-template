@@ -1,0 +1,7 @@
+node_modules/
+dist/
+yarn.lock
+.env
+prisma/migrations/
+prisma/database.db
+prisma/database.db-journal
